@@ -69,7 +69,6 @@ MPhil, Computer Science
 
 LinkedIn: https://www.linkedin.com/in/ioanabica/  
 Email: ioana.bica@eng.ox.ac.uk  
-Website: https://ioanabica.github.io  
 Twitter/X: https://x.com/IoanaBica95  
 
 ---
